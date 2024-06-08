@@ -15,7 +15,7 @@ Pokedex is a Website where user can search and filter pokemons by type for their
 Before getting started, make sure you have Node.js and npm installed on your machine.
 
 1. **Clone the repository:**
-   git clone [https://github.com/tarun6738/pokedex-final.git]
+   git clone [https://github.com/maniiiiiiiiiiii/Pokedex.git]
 
 2. **Install dependencies:**
    npm install
